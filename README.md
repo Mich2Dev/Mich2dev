@@ -1,80 +1,90 @@
 # ¡Hola, soy Michael Menco Cuello! 👋
 
-Bienvenido a mi espacio en GitHub, donde combino innovación y tecnología para transformar el mundo a través de soluciones inteligentes en visión artificial, automatización y control.
+Bienvenido a mi espacio en GitHub, donde fusiono mi pasión por la innovación tecnológica con la automatización industrial y la visión artificial para crear soluciones que optimicen procesos y marquen la diferencia en el mundo real.
 
 ---
 
 ## 🚀 Sobre Mí
 
-Soy un profesional especializado en **visión artificial**, **machine learning** y **automatización industrial**. Mi carrera se ha enfocado en desarrollar soluciones tecnológicas integrales, desde algoritmos de deep learning hasta sistemas de control y comunicación para dispositivos industriales. He trabajado en proyectos que van desde la detección de objetos en tiempo real hasta el diseño de sistemas de comunicación con PLCs
+Soy un **programador de software** con una sólida formación en **análisis y desarrollo de sistemas de información**, especializado en **integración de software y hardware**. Mi enfoque principal es **conectar el mundo digital con el físico**, ofreciendo soluciones inteligentes que mejoran la eficiencia operacional y facilitan la adopción de la inteligencia artificial en tareas cotidianas e industriales.
 
-Además, fui **ganador del primer hackatón del Caribe**, organizado por Google Developer Groups Barranquilla, lo que refuerza mi capacidad para trabajar bajo presión y colaborar en equipos multidisciplinarios.
+Mi experiencia combina:
+- **Visión Artificial y Machine Learning** (modelos YOLO, redes neuronales, OpenCV).  
+- **Automatización y Control Industrial** (comunicación con PLCs y protocolos de red).  
+- **Sistemas Embebidos** (Jetson Nano, Raspberry Pi, ESP32).  
+- **Desarrollo de Software** (Python, JavaScript, C++, React, Flask).  
+- **Procesamiento y Análisis de Datos** (Pandas, NumPy, SciPy).
+
+Además, fui **ganador de la Primera Hackathon de IA en el Caribe**, un evento organizado por Google Developer Groups Barranquilla, lo que demuestra mi capacidad de trabajar bajo presión y en entornos colaborativos de alto rendimiento.
+
+---
+
+## 📌 Áreas de Especialidad
+
+1. **Visión Artificial y Machine Learning**  
+   - Modelos YOLO para detección y clasificación de objetos.  
+   - Librerías como OpenCV y scikit-image para procesamiento avanzado de imágenes.
+
+2. **Automatización y Control Industrial**  
+   - Integración de software con PLCs, protocolos de comunicación industrial (p. ej., Modbus).  
+   - Supervisión y control de procesos con tecnologías SCADA o soluciones propias.
+
+3. **Sistemas Embebidos**  
+   - Configuración y desarrollo en Jetson Nano, Raspberry Pi y ESP32.  
+   - Procesamiento local de datos y aplicaciones IoT.
+
+4. **Desarrollo de Software**  
+   - **Python**: Scripts de automatización, IA y servicios backend con Flask.  
+   - **JavaScript**: Aplicaciones web interactivas con React.  
+   - **C++**: Optimización de rendimiento y soluciones en entornos de recursos limitados.
+
+5. **Procesamiento y Análisis de Datos**  
+   - Manejo de datos con Pandas, NumPy y SciPy.  
+   - Integración con bases de datos SQL/NoSQL y elaboración de reportes analíticos.
 
 ---
 
 ## 🔧 Herramientas y Tecnologías
 
-Mi experiencia abarca un amplio espectro de herramientas y tecnologías:
-
-- **Lenguajes y Frameworks:**
-  - **Python:** Desarrollo de algoritmos y aplicaciones de IA.
-  - **JavaScript & C++:** Aplicaciones específicas y optimización de rendimiento.
-  - **TensorFlow, PyTorch & Keras:** Frameworks de deep learning para modelado y entrenamiento.
-
-- **Librerías y Herramientas de Procesamiento de Imágenes:**
-  - **OpenCV:** Análisis y procesamiento de imágenes y video.
-  - **scikit-image:** Algoritmos avanzados para procesamiento de imágenes.
-  - **NumPy & Pandas:** Manejo de datos y operaciones numéricas.
-
-- **Sistemas de Control y Automatización:**
-  - **PLC y comunicaciones de señales:** Integración y comunicación con dispositivos para la automatización industrial.
-  - **Docker y GitHub Actions:** Creación de entornos consistentes y automatización de despliegues.
-
-- **Metodologías y Algoritmos:**
-  - Redes Neuronales Convolucionales (CNN)
-  - Generative Adversarial Networks (GAN)
-  - Algoritmos de detección, segmentación y clasificación
-
-- **Control de Versiones y Colaboración:**
-  - Git y GitHub: Colaboración en proyectos y control de versiones.
+- **Frameworks de Deep Learning**: TensorFlow, PyTorch, Keras  
+- **Control de Versiones y CI/CD**: Git, GitHub, GitHub Actions, Docker  
+- **Protocolos de Comunicación Industrial**: Modbus, Ethernet/IP, MQTT  
+- **Sistemas Operativos**: Linux, Windows  
+- **Nube y Despliegues**: AWS, Azure, GCP (aplicaciones escalables o híbridas)
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos Destacados (Herramientas Usadas)
 
-### 1. **Medidores para Banco de Calibración**
-Desarrollo e implementación de sistemas de medición avanzados para bancos de calibración, garantizando precisión y confiabilidad en procesos de validación técnica.
+1. **Medidores para Banco de Calibración**  
+   - Python, NumPy, comunicación con PLC, bases de datos locales.
 
-### 2. **Detección de Objetos para Uso General**
-Implementación de algoritmos de detección de objetos en tiempo real, aplicables en diversas áreas como seguridad, monitoreo y análisis visual en entornos dinámicos.
+2. **Detección de Objetos para Uso General**  
+   - Python, OpenCV, modelos YOLO con TensorFlow/PyTorch.
 
-### 3. **Sistema de Control de Acceso para el Puerto**
-Diseño e implementación de sistemas de control de acceso, que combinan tecnologías de visión artificial y automatización para gestionar la entrada y salida de personal y vehículos en zonas portuarias.
+3. **Sistema de Control de Acceso para el Puerto**  
+   - Python (Flask), PLCs (integración de protocolos), bases de datos para registro histórico.
 
-### 4. **Comunicaciones de Señales con Dispositivos PLC**
-Integración de sistemas de comunicación y control para dispositivos PLC, facilitando la automatización y el control en procesos industriales, optimizando la operación y supervisión de equipos.
-
----
-
-## 🌟 Mi Enfoque Profesional
-
-- **Innovación Continua:**  
-  Me impulsa el aprendizaje constante y la aplicación de nuevas tecnologías para crear soluciones disruptivas y eficientes.
-
-- **Colaboración y Comunidad:**  
-  Comprometido con el trabajo en equipo y la colaboración abierta, he contribuido en proyectos de código abierto y en eventos de alto impacto como hackatones.
-
-- **Orientación a Resultados:**  
-  Cada proyecto es una oportunidad para resolver problemas reales, combinando precisión técnica con una visión estratégica para entregar soluciones escalables.
+4. **Comunicaciones de Señales con Dispositivos PLC**  
+   - Protocolos industriales (Modbus, Ethernet/IP), Docker para despliegues, paneles de control en tiempo real.
 
 ---
 
-## 📫 Conecta Conmigo
+## 🌱 Filosofía de Trabajo
 
-Si deseas saber más sobre mi trabajo o explorar oportunidades de colaboración, no dudes en conectarte:
+- **Aprendizaje Constante**: Exploro nuevas tecnologías y metodologías para mantener mis soluciones a la vanguardia.  
+- **Visión Holística**: Conecto hardware, comunicaciones y software de alto nivel para brindar soluciones completas.  
+- **Colaboración Abierta**: Participo en comunidades de desarrolladores y eventos como hackatones.  
+- **Orientación a Resultados**: Cada proyecto busca resolver problemas tangibles y optimizar la operación en distintos ámbitos.
 
-- [LinkedIn](https://www.linkedin.com/in/michael-menco-cuello-732877226/)
-- Email: [mencocuellomaicol@gmail.com](mailto:mencocuellomaicol@gmail.com)
+---
+
+## 💬 Contacto y Colaboraciones
+
+¿Interesado en explorar oportunidades o debatir ideas innovadoras?
+
+- **LinkedIn**: [Michael Menco Cuello](https://www.linkedin.com/in/michael-menco-cuello-732877226/)  
+- **Email**: [mencocuellomaicol@gmail.com](mailto:mencocuellomaicol@gmail.com)
 
 ---
 
@@ -84,5 +94,6 @@ Si deseas saber más sobre mi trabajo o explorar oportunidades de colaboración,
 
 ---
 
-¡Gracias por visitar mi perfil!  
-Estoy entusiasmado por compartir mis conocimientos y proyectos en visión artificial, automatización y control. Juntos, podemos transformar ideas en soluciones que marquen la diferencia.
+### ¡Gracias por visitar mi perfil!
+¡Te invito a seguir mis repositorios y proyectos, y a colaborar en la evolución de la visión artificial y la automatización industrial!  
+Juntos, podemos **transformar ideas en soluciones** que generen un impacto real.
