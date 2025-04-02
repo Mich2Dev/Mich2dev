@@ -6,7 +6,7 @@ Bienvenido a mi espacio en GitHub, donde combino innovación y tecnología para 
 
 ## 🚀 Sobre Mí
 
-Soy un profesional especializado en **visión artificial**, **machine learning** y **automatización industrial**. Mi carrera se ha enfocado en desarrollar soluciones tecnológicas integrales, desde algoritmos de deep learning hasta sistemas de control y comunicación para dispositivos industriales. He trabajado en proyectos que van desde la detección de objetos en tiempo real hasta el diseño de sistemas de comunicación con PLCs, pasando por medidores para bancos de calibración y sistemas de control de acceso.
+Soy un profesional especializado en **visión artificial**, **machine learning** y **automatización industrial**. Mi carrera se ha enfocado en desarrollar soluciones tecnológicas integrales, desde algoritmos de deep learning hasta sistemas de control y comunicación para dispositivos industriales. He trabajado en proyectos que van desde la detección de objetos en tiempo real hasta el diseño de sistemas de comunicación con PLCs
 
 Además, fui **ganador del primer hackatón del Caribe**, organizado por Google Developer Groups Barranquilla, lo que refuerza mi capacidad para trabajar bajo presión y colaborar en equipos multidisciplinarios.
 
